@@ -5,6 +5,8 @@ Input of the program is a bmp image represented grayscale from 0 to 255
 Output of the program is a number which the given image represents
 Thats an idea, just need to put it into practice :)
 
+The structure of the network will look like this: image has 42x42 dimensions, alltogether there will be 4 layers, so 2 in the middle and each middle layer will have 42 neurons.
+
 ## note:
 ### This is work in progress and it might not work for now, when its all finished the repository will be reorganised.
 
